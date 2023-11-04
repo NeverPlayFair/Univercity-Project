@@ -1,2 +1,2 @@
 # Univercity-Project
-Projekt przygotowany na zaliczenie przedmiotu pt "Wprowadzenie do programowania"
+W celu odpalenia kalkulatora należy pobrać pliki i odpalić przez plik index.html.
